@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/suniltfs/GitHub%20Projects/_apis/build/status/ghantasunil.ContosoAir?branchName=master)](https://dev.azure.com/suniltfs/GitHub%20Projects/_build/latest?definitionId=3&branchName=master)
 
 
 # Microsoft.Github CI Demo
